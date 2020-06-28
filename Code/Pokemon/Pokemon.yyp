@@ -130,7 +130,7 @@
             "Key": "a8867428-137b-4fea-9ee1-acf3909467ea",
             "Value": {
                 "id": "552bf07b-72be-4e09-a5f4-58eda9da986e",
-                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourcePath": "sprites\\ball\\ball.yy",
                 "resourceType": "GMSprite"
             }
         },
